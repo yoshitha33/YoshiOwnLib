@@ -28,7 +28,7 @@ Since this is a custom library, clone or copy the source code into your project 
 
 bash
 # Clone this repository or include the file directly
-git clone https://github.com/yourusername/YoshiOwnLib.git
+git clone https://github.com/yoshithanunna33/YoshiOwnLib.git
 
 
 
